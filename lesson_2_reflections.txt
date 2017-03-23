@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository you bind all the files together
+So that you can create commits which are a snapshot of 
+The state of ALL the files together when the commit is made
+
