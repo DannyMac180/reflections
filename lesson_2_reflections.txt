@@ -11,6 +11,8 @@ That you can add separate files
 So you can commit them either together
 Or separately
 
-Testing message creation
+How can you use the staging area to make sure you have one commit per logical change?
 
-Test 2 change
+By making sure you only add files to the staging area
+Where you've made logical changes, and leave the files
+Where you haven't made logical changes in the working directory
