@@ -10,3 +10,7 @@ The staging area is an intermediary location
 That you can add separate files
 So you can commit them either together
 Or separately
+
+Testing message creation
+
+Test 2 change
