@@ -16,3 +16,20 @@ How can you use the staging area to make sure you have one commit per logical ch
 By making sure you only add files to the staging area
 Where you've made logical changes, and leave the files
 Where you haven't made logical changes in the working directory
+visualize the branch structure?
+
+A diagram gives you a grpahical display of the branches within your
+Commit history so you can see how the different branches are related 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches essentially merges them both into the Master branch
+While including the experimental or new branch within the Master branch
+To create a new Master branch with new features
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Merging automatically can be convenient but it can be ambiguous
+For git to know exactly which files you want to discard
+And which files you want to keep
+
