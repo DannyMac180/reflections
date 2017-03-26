@@ -16,3 +16,11 @@ A branch is creating a new series of commits on your local computer
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 So you can make changes to it without an internet connection
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You could send files to each other through email
+And then compare the files on your local drive
+It would be harder to keep track of everything
+But possibly easy to manage merges as everything 
+would be visible to the person with the most recent files
